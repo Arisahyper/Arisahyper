@@ -9,7 +9,9 @@
 - Python
   - Pandas / matplotlib / Seaborn
   - Scikit-learn / LightGBM
-
+- C++ / C#
+  - UE4 / Unity
+- php / golang
 
 ![a](https://media.discordapp.net/attachments/718758474259103795/859858453156462612/tenor.gif)
 
