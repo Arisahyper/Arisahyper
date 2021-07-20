@@ -4,7 +4,7 @@
 ## Skills
 - HTML / CSS
   - Tailwind
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Node.js
   - React / Next.js / Vue.js
 - Python
   - Pandas / matplotlib / Seaborn
