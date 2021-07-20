@@ -1,8 +1,5 @@
 <h1> ⚓️ Hello World ⚓️</h1>
 
-## TLDR
-
-I'm a front-end engineer.
 
 ## Skills
 - HTML / CSS
