@@ -11,7 +11,7 @@
   - Scikit-learn / LightGBM
 - C++ / C#
   - UE4 / Unity
-- PHP / Golang
+- (PHP / Golang)
 
 ![a](https://media.discordapp.net/attachments/718758474259103795/859858453156462612/tenor.gif)
 
