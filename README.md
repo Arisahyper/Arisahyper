@@ -1,18 +1,44 @@
-<h1> ⚓️ Hello World ⚓️</h1>
+<h1> ⚓️ Hello World</h1>
 
 
 ## Skills
-- HTML / CSS
-  - Tailwind
-- JavaScript / TypeScript / Node.js
-  - React / Next.js / Vue.js
-- Python
-  - Pandas / matplotlib / Seaborn
-  - Scikit-learn / LightGBM
-- C++ / C#
-  - UE4 / Unity
-- (PHP / Golang)
 
+```
+Language
+  ├── HTML/CSS
+  │    └── Tailwind 
+  ├── Typescript/Javascript
+  │    ├── React
+  │    │     └── Next.js 
+  │    └── Vue.js🔰
+  │         └── Vite.js
+  ├── Python
+  │    ├── Pandas
+  │    ├── matplot/seaborn
+  │    └── Scikit-learn/LightGBM
+  ├── C++/C#
+  │    └── UE4🔰/Unity
+  ├── Golang🔰
+  └── PHP🔰
+```
+
+```
+Toos
+  ├── Docker
+  │    └── DockerCompose 
+  ├── Git
+  │    ├── CLI
+  │    └── SourceTree 
+  ├── IDE
+  │    ├── VisualStudioCode
+  │    └── VisualStudio
+  └── Design
+       ├── Figma
+       └── PhotoShop/Illustrator🔰
+```
+
+---  
+  
 ![a](https://media.discordapp.net/attachments/718758474259103795/859858453156462612/tenor.gif)
 
 
