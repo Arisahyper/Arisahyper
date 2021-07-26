@@ -35,9 +35,14 @@ Toos
   ├── IDE
   │    ├── VisualStudioCode
   │    └── VisualStudio
-  └── Design
-       ├── Figma
-       └── PhotoShop/Illustrator🔰
+  ├── Design
+  │    ├── Figma
+  │    └── PhotoShop/Illustrator🔰
+  └── Communication
+       ├── Slack
+       ├── Microsoft Teams
+       ├── Zoom
+       └── Trello
 ```
 
 ---  
