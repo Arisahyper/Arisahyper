@@ -9,7 +9,7 @@ Language
   │    └── Tailwind 
   ├── Typescript/Javascript
   │    ├── React
-  │    │     └── Next.js 
+  │    │     └── Next.js
   │    └── Vue.js🔰
   │          └── Vite.js
   ├── Python
@@ -25,7 +25,7 @@ Language
 ```
 Toos
   ├── Docker
-  │    └── DockerCompose
+  │    └── DockerCompose🔰
   ├── Cloud
   │    ├── Firebase
   │    └── Microsoft Azure🔰
