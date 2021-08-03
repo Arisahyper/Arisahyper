@@ -32,7 +32,7 @@ Toos
   ├── Git
   │    ├── CLI
   │    └── SourceTree 
-  ├── IDE
+  ├── TextEditor/IDE
   │    ├── VisualStudioCode
   │    └── VisualStudio
   ├── Design
