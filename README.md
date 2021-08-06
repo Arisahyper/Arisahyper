@@ -45,6 +45,17 @@ Toos
        └── Trello
 ```
 
+```
+ OS
+  ├── MacOS BigSur
+  ├── Linux
+  │    ├── Ubuntu 20.04
+  │    └── VirtualBox
+  │          └── Ubuntu 20.04
+  └── Windows10
+             
+```
+
 ---  
   
 ![a](https://media.discordapp.net/attachments/718758474259103795/859858453156462612/tenor.gif) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisahyper&layout=compact&theme=radical)](https://github.com/arisahyper/github-readme-stats)
