@@ -1,8 +1,7 @@
-<h1> ⚓️ Hello World</h1>
-
+# HelloWorld ⚓️
 
 ```
-Language
+Skill
   ├── HTML/CSS
   │    └── Tailwind 
   ├── Typescript/Javascript
@@ -15,9 +14,11 @@ Language
   │    ├── matplot/seaborn
   │    └── Scikit-learn/LightGBM
   ├── C++/C#
-  │    └── UE4🔰/Unity
+  │    ├── Unity
+  │    └── UE4🔰
   ├── Golang🔰
-  └── PHP🔰
+  └── Ruby
+       └── Ruby on Rails🔰
 ```
 
 ```
@@ -35,32 +36,11 @@ Tools
   │    └── VisualStudio
   ├── Design
   │    ├── Figma
-  │    └── PhotoShop/Illustrator🔰
+  │    ├── Illustrator🔰
+  │    └── PhotoShop
   └── Communication
        ├── Slack
        ├── Microsoft Teams
        ├── Zoom
        └── Trello
 ```
-
-```
- OS
-  ├── MacOS BigSur
-  ├── Linux
-  │    ├── Ubuntu 20.04
-  │    └── VirtualBox
-  │          └── Ubuntu 20.04
-  └── Windows10
-             
-```
-
----  
-  
-![a](https://media.discordapp.net/attachments/718758474259103795/859858453156462612/tenor.gif) 
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisahyper&layout=compact&theme=radical)](https://github.com/arisahyper/github-readme-stats)
- -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arisahyper&show_icons=true&theme=radical&hide=stars)　 -->
