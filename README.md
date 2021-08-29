@@ -1,46 +1,5 @@
-# HelloWorld ⚓️
+<h1 align="center">⚓ Hello World ⚓️</h1>
 
-```
-Skill
-  ├── HTML/CSS
-  │    └── Tailwind 
-  ├── Typescript/Javascript
-  │    ├── React
-  │    │     └── Next.js
-  │    └── Vue.js🔰
-  │          └── Vite.js
-  ├── Python
-  │    ├── Pandas
-  │    ├── matplot/seaborn
-  │    └── Scikit-learn/LightGBM
-  ├── C++/C#
-  │    ├── Unity
-  │    └── UE4🔰
-  ├── Golang🔰
-  └── Ruby
-       └── Ruby on Rails🔰
-```
+<p align="left"> <a href="https://twitter.com/arisahyper" target="blank"><img src="https://img.shields.io/twitter/follow/arisahyper?logo=twitter&style=for-the-badge" alt="arisahyper" /></a> </p>
 
-```
-Tools
-  ├── Docker
-  │    └── DockerCompose🔰
-  ├── Cloud
-  │    ├── Firebase
-  │    └── Microsoft Azure🔰
-  ├── Git
-  │    ├── CLI
-  │    └── SourceTree 
-  ├── TextEditor/IDE
-  │    ├── VisualStudioCode
-  │    └── VisualStudio
-  ├── Design
-  │    ├── Figma
-  │    ├── Illustrator🔰
-  │    └── PhotoShop
-  └── Communication
-       ├── Slack
-       ├── Microsoft Teams
-       ├── Zoom
-       └── Trello
-```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arisahyper&show_icons=true&locale=en&layout=compact" alt="arisahyper" /></p>
