@@ -1,7 +1,5 @@
 <h1>Happy Hacking</h1>
 
-Hi, I'm <strong>雑魚</strong>
-
 <p align="left"> <a href="https://twitter.com/arisahyper" target="blank"><img src="https://img.shields.io/twitter/follow/arisahyper?logo=twitter&style=for-the-badge" alt="arisahyper" /></a> </p>
 
 
