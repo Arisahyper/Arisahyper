@@ -1,6 +1,5 @@
-<h1>Happy Hacking 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/arisahyper" target="blank"><img src="https://img.shields.io/twitter/follow/arisahyper?logo=twitter&style=for-the-badge" alt="arisahyper" /></a> </p>
+<h1 align="center">Happy Hacking <img width="40px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/> </h1>
 
 ### My Skills & Interests:
 ![Typescript](https://img.shields.io/badge/Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,10 +21,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-
-
 <div style="height: 200px; display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=cobalt" />
   <img src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=cobalt" />
 </div>
+
+---
+
+<p align="left"> <a href="https://twitter.com/arisahyper" target="blank"><img src="https://img.shields.io/twitter/follow/arisahyper?logo=twitter&style=for-the-badge" alt="arisahyper" /></a> </p>
