@@ -22,6 +22,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0366AD?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=cobalt)
-![](https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=cobalt)
+<div style="height: 200px; display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=cobalt" />
+</div>
