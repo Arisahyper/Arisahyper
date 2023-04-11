@@ -1,5 +1,7 @@
 
-<h1 align="center">Happy Hacking <img width="40px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/> </h1>
+<h1>Happy Hacking <img width="40px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/> </h1>
+
+<img align="center" src="https://img.gifmagazine.net/gifmagazine/images/21134/original.gif" />
 
 ### My Skills & Interests:
 ![Typescript](https://img.shields.io/badge/Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
