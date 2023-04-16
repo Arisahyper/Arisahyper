@@ -1,7 +1,7 @@
 
 <h1>Happy Hacking <img width="40px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/> </h1>
 
-<img align="center" src="https://img.gifmagazine.net/gifmagazine/images/21134/original.gif" />
+
 
 ### My Skills & Interests:
 ![Typescript](https://img.shields.io/badge/Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,9 +24,10 @@
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <div style="height: 200px; display: flex;">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=onedark" />
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=onedark" />
-</div>
+    <img style="height: 200px; display: inline;" src="https://media.tenor.com/aupMs7FV5tgAAAAC/samba-bocchi-the-rock.gif" />
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=onedark" />
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=onedark" />
+ </div>
 
 ---
 
