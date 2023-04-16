@@ -25,10 +25,8 @@
 
 <div style="height: 200px; display: flex;">
     <img style="height: 200px; display: flex;" src="https://media.tenor.com/aupMs7FV5tgAAAAC/samba-bocchi-the-rock.gif" />
-    <div>
-        <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=onedark" />
-        <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=onedark" />
-    </div>
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisahyper&layout=compact&theme=onedark" />
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Arisahyper&show_icons=true&theme=onedark" />
  </div>
 
 ---
